@@ -2,7 +2,6 @@
 
 # Carbon emissions of 5G mobile networks in China
 
-Tsinghua University
 By Tong Li, Li Yu, Yibo Ma, Tong Duan, Wenzhen Huang, Yan Zhou, Depeng Jin,
 Yong Li, and Tao Jiang
 
@@ -21,3 +20,4 @@ Yong Li, and Tao Jiang
     
     
 Contact: liyong07@tsinghua.edu.cn
+Tsinghua University
